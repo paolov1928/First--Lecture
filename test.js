@@ -1,6 +1,1 @@
-console.log('Hello')
-
-
-asfioahf
-fasfsio.
-Lorem
+that was a hello f a trainwreck
